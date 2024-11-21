@@ -1,0 +1,44 @@
+body {
+  padding: 0;
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+#map,
+body,
+html {
+  height: 100%;
+  margin: 0;
+}
+
+/* Style for the legend box */
+.info.legend {
+  background-color: rgba(255, 255, 255, 0.8); /* semi-transparent background */
+  padding: 10px;
+  border-radius: 5px;
+  font-size: 14px;
+  line-height: 18px;
+  font-family: Arial, sans-serif;
+}
+
+/* Style the color boxes in the legend */
+.info.legend i {
+  width: 20px;
+  height: 20px;
+  display: inline-block;
+  margin-right: 5px;
+  border-radius: 2px;
+}
+
+/* Position the legend in the bottom-right corner */
+.leaflet-bottom {
+  z-index: 9999;
+}
+
+/* Style the popups */
+.leaflet-popup-content {
+  font-size: 14px;
+  line-height: 20px;
+}
+
+
