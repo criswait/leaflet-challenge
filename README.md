@@ -22,6 +22,6 @@ This project visualizes earthquake data and tectonic plate boundaries using Leaf
 - Mapbox Token: If using the Satellite view, you’ll need a Mapbox API token. Get one by signing up at Mapbox.
 
 ## Files:
-index.html: Main HTML file that sets up the map and layers.
-style.css: CSS for styling the map container and layers.
-logic.js: JavaScript code to fetch and display earthquake and tectonic plate data.
+- index.html: Main HTML file that sets up the map and layers.
+- style.css: CSS for styling the map container and layers.
+- logic.js: JavaScript code to fetch and display earthquake and tectonic plate data.
