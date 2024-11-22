@@ -17,7 +17,7 @@ This project visualizes earthquake data and tectonic plate boundaries using Leaf
 - Fetch API: To retrieve earthquake and tectonic plates data in real-time.
 
 ## Setup:
-# Prerequisites:
+### Prerequisites:
 - Ensure you have a working internet connection to fetch the required data (earthquake data and tectonic plate boundaries).
 - Mapbox Token: If using the Satellite view, you’ll need a Mapbox API token. Get one by signing up at Mapbox.
 
